@@ -22,7 +22,7 @@ body {
     background-color: #F5F5F5;
 }
 
-.wrapper {
+.wraper {
     display: flex;
     justify-content: center;
     min-height: 100%;
